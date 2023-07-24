@@ -38,7 +38,7 @@
                enable Transparency in BD Settings]
 ---------------------------------------------------------------*/
 /*--Yes you can enable/disable this--*/
-@import url(https://zuzumi-f.github.io/Discord-11/release/glasseffect.css);
+/*@import url(https://zuzumi-f.github.io/Discord-11/release/glasseffect.css);*/
 
 /*--------------------------------------------------------------
                            Settings
@@ -50,9 +50,9 @@
     --server-size: 48px; /* The size of the server icons [48px is default] */
       
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
-    --H: 199; /* Value only number [199 is default] */
-    --S: 100%; /* Value in % [100% is default] */
-    --L: 69%; /* Value in % [69% is default] */
+    --H: 208; /* Value only number [199 is default] */
+    --S: 77%; /* Value in % [100% is default] */
+    --L: 44%; /* Value in % [69% is default] */
 }
 
 /*----------------------------------------------------
